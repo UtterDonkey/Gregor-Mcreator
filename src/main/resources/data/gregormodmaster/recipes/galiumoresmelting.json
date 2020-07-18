@@ -1,0 +1,11 @@
+{
+  "group": "gregormodmaster",
+  "type": "minecraft:smelting",
+  "experience": 1.4,
+  "ingredient": {
+    "item": "gregormodmaster:galiumore"
+  },
+  "result": {
+    "item": "gregormodmaster:galiumdust"
+  }
+}

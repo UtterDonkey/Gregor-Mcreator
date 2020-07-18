@@ -1,0 +1,13 @@
+{
+  "group": "gregormodmaster",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gregormodmaster:galiumoreblock"
+    }
+  ],
+  "result": {
+    "item": "gregormodmaster:galiumdust",
+    "count": 9
+  }
+}

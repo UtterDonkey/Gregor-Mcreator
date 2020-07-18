@@ -1,0 +1,36 @@
+{
+  "group": "gregormodmaster",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "1": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "2": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "3": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "5": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "6": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "8": {
+      "item": "gregormodmaster:galiumdust"
+    }
+  },
+  "result": {
+    "item": "gregormodmaster:galiumarmorlegs",
+    "count": 1
+  }
+}

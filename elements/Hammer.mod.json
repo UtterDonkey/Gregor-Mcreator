@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "hammer",
+    "customModelName": "Normal",
+    "name": "Hammer",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 2,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "item.trident.throw"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 4.0,
+    "bulletDamage": 20.0,
+    "bulletKnockback": 20,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Hammer"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "DropHammer"
+    },
+    "onBulletHitsPlayer": {
+      "name": "DropHammer"
+    },
+    "onBulletHitsEntity": {
+      "name": "DropHammer"
+    },
+    "onRangedItemUsed": {
+      "name": "GetRidOfHammer"
+    }
+  }
+}

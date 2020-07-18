@@ -1,0 +1,24 @@
+{
+  "group": "gregormodmaster",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "1": {
+      "item": "gregormodmaster:galiumdust"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "gregormodmaster:galiumsword",
+    "count": 1
+  }
+}
